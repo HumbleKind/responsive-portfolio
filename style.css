@@ -1,0 +1,24 @@
+.nav {
+    background-color: lightgray;
+    padding: 20px;
+}
+
+/* .active {
+    color: orange;
+} */
+
+body {
+    background-color: aliceblue;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightgray;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
