@@ -1,6 +1,16 @@
-.nav {
-    background-color: lightgray;
+header {
     padding: 20px;
+    background-color: lightgray;
+}
+
+.logo {
+    position: fixed;
+    top: 0;
+    left: 8.33%;
+    float: left;
+    padding: 12px;
+    background-color: orange;
+    color: white;
 }
 
 /* .active {
@@ -13,20 +23,21 @@ body {
 }
 
 section {
-    position: relative;
-    left: 0;
-    top: 40px;
+    margin-top: 40px;
     padding: 30px;
-    width: 600px;
     background-color: white;
     color: darkgray;
 }
 
-h1 {
+.container {
+    margin-left: 0;
+}
+
+h2 {
     color: orange;
 }
 
-.seperator {
+.separator {
     margin-top: 30px;
     margin-bottom: 30px;
     background-color: lightgray;
