@@ -55,6 +55,7 @@ img {
     left: 0;
     bottom: 0;
     width: 100%;
+    border-top: 5px solid orange;
     background-color: lightgray;
     padding: 20px;
     text-align: center;
