@@ -20,6 +20,7 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+/* 'card' object used on index page */
 section {
     margin-top: 40px;
     padding: 30px;
@@ -27,8 +28,18 @@ section {
     color: darkgray;
 }
 
+/* 'card' object used on portfolio page */
+.section {
+    margin: 50px;
+    padding: 30px;
+    width: 600px;
+    background-color: white;
+    color: darkgray;
+}
+
 .container {
     margin-left: 0;
+    padding: 0;
 }
 
 h2 {
